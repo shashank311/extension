@@ -10,11 +10,11 @@ body{
 
 p{
     margin: 10PX;
-    font-size: 22PX;
+    font-size: 20PX;
     color: black;
     border-radius: 6px;
-    border: 1px solid lightblue;
-    padding: 10px;
+    border: 1px dashed darkblue;
+    padding: 50px 50px;
     text-align: center;
     font-family: 'Questrial';
 }
